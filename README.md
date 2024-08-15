@@ -1,5 +1,5 @@
 # Hello There! this tool was made by Blxsted 
-> [!NOTE] Feel free to fork this project, or make it better, Just give credit
+>  Feel free to fork this project, or make it better, Just give credit
 
 ## Run main.py in a terminal
 
